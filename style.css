@@ -1,0 +1,41 @@
+section{
+    max-width: 1300px;
+    margin: auto;
+}
+
+.container{
+    max-width: 1300px;
+    margin: auto;
+}
+
+p{
+    color: #343434;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.main4{
+    background: url(./img/11.png);
+    background-repeat: no-repeat;
+}
+.main5{
+    background: url(./img/111.png);
+    background-repeat: no-repeat;
+}
+.main6{
+    background: url(./img/1111.png);
+    background-repeat: no-repeat;
+}
+
+.footer{
+    max-width: 1000px;
+    margin: auto;
+}
+
+h6{
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+}
